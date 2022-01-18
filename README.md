@@ -1,5 +1,5 @@
-### QA Guru / HW №6
-#### Allure report for tests with Listeners, Lambda and Annotations
+#### QA Guru / HW №6
+### Allure report for tests with Listeners, Lambda and Annotations
 ___
 
 #### Allure Report Example
